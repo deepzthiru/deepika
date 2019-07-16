@@ -9,4 +9,4 @@ for i in range(0,len(a)):
 if(len(l)==0):
    print("uniqye")
 else:
-   print(l[o])
+   print(l[0])
