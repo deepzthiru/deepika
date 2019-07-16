@@ -5,4 +5,4 @@ if(x>=1 and x<=100000):
     l.append(input())
   l.sort(reverse=True)
   for i in l"
-    print(i,end=" ")
+    print(i,end="")
