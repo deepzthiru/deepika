@@ -11,7 +11,7 @@ for i in range(0,l1):
         if(c!=k[j][i]):
            f=1
    if(f==0):
-       s=s+c
+     s=s+c
    else:
-      break
+     break
 print(s)
