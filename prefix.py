@@ -12,6 +12,6 @@ for i in range(0,l1):
            f=1
    if(f==0):
        s=s+c
-  else:
+   else:
       break
 print(s)
