@@ -2,9 +2,9 @@ l1=int(input())
 k=[]
 for i in range(0,l1):
    k.append(input())
-l1=len(k[0])
+l2=len(k[0])
 s=""
-for i in range(0,l1):
+for i in range(0,l2):
    c=k[0][i]
    f=0
    for j in range(0,l1):
